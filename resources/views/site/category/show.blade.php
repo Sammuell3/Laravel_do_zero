@@ -1,0 +1,2 @@
+categorias slug
+{{ $categorySlug }}
